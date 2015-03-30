@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Time-stamp: <2015-03-21 23:42:29 Saturday by zhangguhua>
+# Time-stamp: <2015-03-27 17:31:16 Friday by zhangguhua>
 
 # @version 1.0
 # @author zhangguhua
@@ -46,3 +46,4 @@ class Solution:
 if __name__ == "__main__":
     test_class = Solution()
     print test_class.twoSum([3, 2, 4, 5, 6, 4, 7], 11)
+
